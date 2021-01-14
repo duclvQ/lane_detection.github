@@ -1,0 +1,23 @@
+﻿  detection.cpp
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(94,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(95,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(102,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(130,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(85,17): warning C4101: 'sum': unreferenced local variable
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(199,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(263,55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(335,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\Code C++\image_processing_ex\code\detection\detection\detection.cpp(336,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  detection.vcxproj -> C:\Users\Duc Le\OneDrive - Hanoi University of Science and Technology\code c++\image_processing_ex\code\detection\x64\Debug\detection.exe
