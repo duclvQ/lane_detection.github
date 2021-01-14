@@ -14,6 +14,7 @@ _______1.RGB to gray level
 _______2.noise reduction
 _______3.edge detection
 _______4.line detection
+*/
 #include <iostream>
 #include<cmath>
 #include< iomanip>
