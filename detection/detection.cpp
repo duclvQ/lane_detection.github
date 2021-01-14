@@ -5,15 +5,15 @@
     We tried our best to implement this idea. However, it isn't really perfect.
     We'll so happy to receive any suggestions.
     Thanks for reading.
+    Author: Le Viet Duc.
 */
 
 /*
 -------steps as below-------
 _______1.RGB to gray level
 _______2.noise reduction
-_______3.edge detection-  implemented by Le Viet Duc	 // 20192777 
-_______4.line detection-  implemented by Ngo Thi Thu Hoa // 20192859
-*/
+_______3.edge detection
+_______4.line detection
 #include <iostream>
 #include<cmath>
 #include< iomanip>
